@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/Itsrenata2/FrontEnd-Mentor-Project-Grid-Component)
-- Live Site URL: [FrontEnd Mentor | Single Price Grid Component](https://front-end-mentor-project-grid-component.vercel.app/)
+- Live Site URL: [FrontEnd Mentor | Single Price Grid Component](https://front-end-mentor-project-order-summary.vercel.app/)
 
 ## My process
 
