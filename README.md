@@ -11,7 +11,6 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -29,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/Itsrenata2/FrontEnd-Mentor-Project-Grid-Component)
+- Solution URL: [GitHub Repository](https://github.com/Itsrenata2/FrontEnd-Mentor-Project-Order-Summary)
 - Live Site URL: [FrontEnd Mentor | Single Price Grid Component](https://front-end-mentor-project-order-summary.vercel.app/)
 
 ## My process
